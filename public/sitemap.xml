@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/blog/hello/</loc>
+    <loc>https://metastructure.naruki-ichihara.com/blog/hello/</loc>
     <lastmod>2022-08-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://metastructure.naruki-ichihara.com/</loc>
     <lastmod>2022-08-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/</loc>
+    <loc>https://metastructure.naruki-ichihara.com/blog/</loc>
     <lastmod>2019-12-23T20:17:01+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/contact/</loc>
+    <loc>https://metastructure.naruki-ichihara.com/contact/</loc>
     <lastmod>2019-12-23T20:17:01+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/portfolio/</loc>
+    <loc>https://metastructure.naruki-ichihara.com/portfolio/</loc>
     <lastmod>2019-12-23T20:17:01+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/publications/</loc>
+    <loc>https://metastructure.naruki-ichihara.com/publications/</loc>
     <lastmod>2019-12-23T16:48:28+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://metastructure.naruki-ichihara.com/about/</loc>
     <lastmod>2018-07-12T18:19:33+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://metastructure.naruki-ichihara.com/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://metastructure.naruki-ichihara.com/tags/</loc>
   </url>
 </urlset>

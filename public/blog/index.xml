@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Metastructure lab</title>
-    <link>http://example.org/blog/</link>
+    <link>https://metastructure.naruki-ichihara.com/blog/</link>
     <description>Recent content in Blogs on Metastructure lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Dec 2019 20:17:01 +0600</lastBuildDate><atom:link href="http://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Dec 2019 20:17:01 +0600</lastBuildDate><atom:link href="https://metastructure.naruki-ichihara.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello! We are metastructure lab.</title>
-      <link>http://example.org/blog/hello/</link>
+      <link>https://metastructure.naruki-ichihara.com/blog/hello/</link>
       <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/blog/hello/</guid>
+      <guid>https://metastructure.naruki-ichihara.com/blog/hello/</guid>
       <description></description>
     </item>
     
