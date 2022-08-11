@@ -1,6 +1,6 @@
 baseURL       = "http://example.org/"
 languageCode  = "en-us"
-title         = "Metastructure group"
+title         = "Metastructure lab"
 theme         = "roxo"
 summarylength = 25
 
@@ -12,7 +12,7 @@ summarylength = 25
     url     = ""
     weight  = 1
   [[menu.nav]]
-    name    = "About us"
+    name    = "Members"
     url     = "about"
     weight  = 2
   [[menu.nav]]
@@ -22,6 +22,10 @@ summarylength = 25
   [[menu.nav]]
     name    = "Blog"
     url     = "blog"
+    weight  = 4
+  [[menu.nav]]
+    name    = "Publications"
+    url     = "publications"
     weight  = 4
   [[menu.nav]]
     name    = "Get in touch"
@@ -67,14 +71,14 @@ summarylength = 25
   [params.banner]
     enable                = true
     background_image      = "images/backgrounds/hero-background_2.jpg"
-    heading               = "Metastructures team"
-    tagline               = "Hello, we are"
+    heading               = "Metastructure Lab"
+    tagline               = "Hi, we are"
     primary_button        = "See Our Works"
     primary_button_url    = "portfolio"
     secondary_button      = "Connect with Us"
     secondary_button_url  = "contact"
     heading_sub           = "Metastructure"
-    description           = "Metastructure is ..."
+    description           = "We explore an emerging class of structure, metastructure. Metastructure consists of metamaterials that deliver unique functionalities through their detailed structural design. "
 
   [params.blog]
     enable    = true
