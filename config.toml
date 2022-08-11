@@ -1,4 +1,4 @@
-baseURL       = "https://naruki-ichihara.com/metastructure"
+baseURL       = "https://metastructure.naruki-ichihara.com"
 languageCode  = "en-us"
 title         = "Metastructure lab"
 theme         = "roxo"
@@ -26,11 +26,11 @@ summarylength = 25
   [[menu.nav]]
     name    = "Publications"
     url     = "publications"
-    weight  = 4
+    weight  = 5
   [[menu.nav]]
     name    = "Get in touch"
     url     = "contact"
-    weight  = 5
+    weight  = 6
 
 # Site Params
 [params]
