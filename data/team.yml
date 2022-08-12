@@ -1,8 +1,18 @@
 enable  : true
 title   : team
 members  :
-  - image       : images/team/ichihara.jpg
+  - image       : images/team/ueda.jpeg
+    name        : Masahito Ueda
+    designation : Associate Professor
+    google      : https://scholar.google.com/citations?user=H6NAV0oAAAAJ&hl=en
+    linkedin    : https://jp.linkedin.com/in/masahito-ueda-ba7818120
+  - image       : images/team/ichihara.jpeg
     name        : Naruki Ichihara
     designation : Research associate
     google      : https://scholar.google.com/citations?user=aOAOZYMAAAAJ&hl=ja
     linkedin    : https://jp.linkedin.com/in/in-naruki
+  - image       : images/team/logo.png
+    name        : Yuki Asano
+    designation : Doctoral student
+    google      : https://scholar.google.com/citations
+    linkedin    : https://jp.linkedin.com
