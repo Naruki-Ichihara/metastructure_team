@@ -6,14 +6,14 @@
     <description>Recent content on Metastructure lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://metastructure.naruki-ichihara.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://metastructure.naruki-ichihara.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello! We are metastructure lab.</title>
+      <title>Material or structure?</title>
       <link>https://metastructure.naruki-ichihara.com/blog/hello/</link>
-      <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://metastructure.naruki-ichihara.com/blog/hello/</guid>
-      <description></description>
+      <description>Mechanics of materials learn the deformation of continuum materials under external loadings, including heat expansion, gravity, etc. Given this standpoint, we consider the relatively small length scale that we can ignore the inhomogeneously atomic scale structure.</description>
     </item>
     
   </channel>
